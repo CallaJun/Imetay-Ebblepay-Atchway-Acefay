@@ -1,0 +1,18 @@
+{
+    "shortName": "Imetay",
+    "versionCode": 1,
+    "watchapp": {
+        "watchface": true
+    },
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "calla@gmx.us",
+    "longName": "Imetay",
+    "appKeys": {},
+    "uuid": "189d4a26-2ab2-4bc0-9aab-9f713d301ca0",
+    "resources": {
+        "media": []
+    }
+}
