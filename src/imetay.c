@@ -24,7 +24,7 @@ static void do_init(void) {
   window_stack_push(s_data.window, animated);
 
   window_set_background_color(s_data.window, GColorBlack);
-  GFont font = fonts_get_system_font(FONT_KEY_BITHAM_42_LIGHT);
+  GFont font = fonts_get_system_font(FONT_KEY_DROID_SERIF_28_BOLD);
 
   Layer *root_layer = window_get_root_layer(s_data.window);
   GRect frame = layer_get_frame(root_layer);
