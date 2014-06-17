@@ -7,7 +7,7 @@ static const char* const ONES[] = {
   "ootay",
   "eethray",
   "orfay",
-  "ivefar",
+  "ivefay",
   "ixsay",
   "evensay",
   "eightay",
