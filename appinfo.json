@@ -1,18 +1,20 @@
 {
-    "companyName": "calla@gmx.us",
-    "shortName": "Imetay",
-    "longName": "Imetay",
-    "watchapp": {
-        "watchface": true
-    },
-    "uuid": "189d4a26-2ab2-4bc0-9aab-9f713d301ca0",
-    "resources": {
-        "media": []
-    },
+    "appKeys": {},
     "capabilities": [
         ""
     ],
-    "appKeys": {},
+    "companyName": "calla@gmx.us",
+    "longName": "Imetay",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Imetay",
+    "uuid": "189d4a26-2ab2-4bc0-9aab-9f713d301ca0",
+    "versionCode": 1,
     "versionLabel": "1.0.1",
-    "versionCode": 1
+    "watchapp": {
+        "watchface": true
+    }
 }
